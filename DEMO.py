@@ -1,2 +1,3 @@
-'hello world
-'fuck'
+import re
+print('hello world')
+
